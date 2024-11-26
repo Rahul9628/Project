@@ -1,0 +1,17 @@
+1. Create a Doc object from the file peterrabbit.txt
+
+2. For every token in the third sentence, print the token text, the POS tag, the fine-grained TAG tag, and the description of the fine-grained tag.
+
+3. Provide a frequency list of POS tags from the entire document
+
+4. CHALLENGE: What percentage of tokens are nouns?
+
+5. Display the Dependency Parse for the third sentence.
+
+6. Show the first two named entities from Beatrix Potter's The Tale of Peter Rabbit
+
+7. How many sentences are contained in The Tale of Peter Rabbit? 
+
+8. CHALLENGE: How many sentences contain named entities?
+
+9. Display the named entity visualization for list_of_sents[0] from the previous problem

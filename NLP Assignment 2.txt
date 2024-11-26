@@ -1,0 +1,14 @@
+1. Create a Doc object from the file owlcreek.txt
+
+2. How many tokens are contained in the file?
+
+3. How many sentences are contained in the file?
+
+4. Print the second sentence in the document
+
+5. For each token in the sentence above, print its text, POS tag, dep tag and lemma.
+
+6. Write a matcher called 'Swimming' that finds both occurrences of the phrase "swimming vigorously" in the text.
+
+7. Print the text surrounding each found match.
+
